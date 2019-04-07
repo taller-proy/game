@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: b8810ee148ccd52478090f1c1b2b9b25
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Block:*U14
+    100002: Block:*U14 1
+    100004: Block:*U14 2
+    100006: Block:*U14 3
+    100008: Block:*U14 4
+    100010: Block:*U14 5
+    100012: Block:*U15
+    100014: Block:*U16
+    100016: Block:*U16 1
+    100018: Block:*U16 2
+    100020: Block:*U16 3
+    100022: Block:*U16 4
+    100024: Block:*U16 5
+    100026: Block:*U17
+    100028: Block:*U22
+    100030: Block:*U22 1
+    100032: Block:*U22 2
+    100034: Block:*U22 3
+    100036: Block:*U22 4
+    100038: Block:*U22 5
+    100040: Block:*U23
+    100042: Block:*U24
+    100044: Block:*U24 1
+    100046: Block:*U24 2
+    100048: Block:*U24 3
+    100050: Block:*U24 4
+    100052: Block:*U24 5
+    100054: Block:*U25
+    100056: Block:*U4
+    100058: Block:*U4 1
+    100060: Block:*U4 2
+    100062: Block:*U4 3
+    100064: Block:*U4 4
+    100066: Block:*U4 5
+    100068: Block:*U5
+    100070: Block:*U6
+    100072: Block:*U6 1
+    100074: Block:*U6 2
+    100076: Block:*U6 3
+    100078: Block:*U6 4
+    100080: Block:*U6 5
+    100082: Block:*U7
+    100084: Block:*U8
+    100086: Block:*U8 1
+    100088: Block:*U8 2
+    100090: Block:*U8 3
+    100092: Block:*U8 4
+    100094: Block:*U8 5
+    100096: Block:*U9
+    100098: Block:_ArchTick
+    100100: Block:_ArchTick 1
+    100102: //RootNode
+    100104: Layer:.1
+    100106: Layer:.1 1
+    100108: Layer:.1 2
+    100110: Layer:.1 3
+    100112: Layer:.6
+    100114: Layer:0
+    100116: Layer:0 1
+    100118: Layer:DEFPOINTS
+    100120: Layer:DEFPOINTS 1
+    100122: Layer:DEFPOINTS 10
+    100124: Layer:DEFPOINTS 11
+    100126: Layer:DEFPOINTS 12
+    100128: Layer:DEFPOINTS 13
+    100130: Layer:DEFPOINTS 14
+    100132: Layer:DEFPOINTS 15
+    100134: Layer:DEFPOINTS 16
+    100136: Layer:DEFPOINTS 17
+    100138: Layer:DEFPOINTS 18
+    100140: Layer:DEFPOINTS 19
+    100142: Layer:DEFPOINTS 2
+    100144: Layer:DEFPOINTS 20
+    100146: Layer:DEFPOINTS 21
+    100148: Layer:DEFPOINTS 22
+    100150: Layer:DEFPOINTS 23
+    100152: Layer:DEFPOINTS 24
+    100154: Layer:DEFPOINTS 25
+    100156: Layer:DEFPOINTS 26
+    100158: Layer:DEFPOINTS 27
+    100160: Layer:DEFPOINTS 28
+    100162: Layer:DEFPOINTS 29
+    100164: Layer:DEFPOINTS 3
+    100166: Layer:DEFPOINTS 30
+    100168: Layer:DEFPOINTS 31
+    100170: Layer:DEFPOINTS 32
+    100172: Layer:DEFPOINTS 33
+    100174: Layer:DEFPOINTS 34
+    100176: Layer:DEFPOINTS 35
+    100178: Layer:DEFPOINTS 36
+    100180: Layer:DEFPOINTS 37
+    100182: Layer:DEFPOINTS 38
+    100184: Layer:DEFPOINTS 39
+    100186: Layer:DEFPOINTS 4
+    100188: Layer:DEFPOINTS 40
+    100190: Layer:DEFPOINTS 41
+    100192: Layer:DEFPOINTS 42
+    100194: Layer:DEFPOINTS 43
+    100196: Layer:DEFPOINTS 5
+    100198: Layer:DEFPOINTS 6
+    100200: Layer:DEFPOINTS 7
+    100202: Layer:DEFPOINTS 8
+    100204: Layer:DEFPOINTS 9
+    100206: Layer:Proy
+    100208: Layer:Ventana
+    100210: Layer:Ventana 1
+    100212: Point
+    100214: Point 1
+    100216: Point 2
+    100218: Point 3
+    100220: Point 4
+    100222: Point 5
+    100224: Point 6
+    100226: Point 7
+    100228: Suelo
+    400000: Block:*U14
+    400002: Block:*U14 1
+    400004: Block:*U14 2
+    400006: Block:*U14 3
+    400008: Block:*U14 4
+    400010: Block:*U14 5
+    400012: Block:*U15
+    400014: Block:*U16
+    400016: Block:*U16 1
+    400018: Block:*U16 2
+    400020: Block:*U16 3
+    400022: Block:*U16 4
+    400024: Block:*U16 5
+    400026: Block:*U17
+    400028: Block:*U22
+    400030: Block:*U22 1
+    400032: Block:*U22 2
+    400034: Block:*U22 3
+    400036: Block:*U22 4
+    400038: Block:*U22 5
+    400040: Block:*U23
+    400042: Block:*U24
+    400044: Block:*U24 1
+    400046: Block:*U24 2
+    400048: Block:*U24 3
+    400050: Block:*U24 4
+    400052: Block:*U24 5
+    400054: Block:*U25
+    400056: Block:*U4
+    400058: Block:*U4 1
+    400060: Block:*U4 2
+    400062: Block:*U4 3
+    400064: Block:*U4 4
+    400066: Block:*U4 5
+    400068: Block:*U5
+    400070: Block:*U6
+    400072: Block:*U6 1
+    400074: Block:*U6 2
+    400076: Block:*U6 3
+    400078: Block:*U6 4
+    400080: Block:*U6 5
+    400082: Block:*U7
+    400084: Block:*U8
+    400086: Block:*U8 1
+    400088: Block:*U8 2
+    400090: Block:*U8 3
+    400092: Block:*U8 4
+    400094: Block:*U8 5
+    400096: Block:*U9
+    400098: Block:_ArchTick
+    400100: Block:_ArchTick 1
+    400102: //RootNode
+    400104: Layer:.1
+    400106: Layer:.1 1
+    400108: Layer:.1 2
+    400110: Layer:.1 3
+    400112: Layer:.6
+    400114: Layer:0
+    400116: Layer:0 1
+    400118: Layer:DEFPOINTS
+    400120: Layer:DEFPOINTS 1
+    400122: Layer:DEFPOINTS 10
+    400124: Layer:DEFPOINTS 11
+    400126: Layer:DEFPOINTS 12
+    400128: Layer:DEFPOINTS 13
+    400130: Layer:DEFPOINTS 14
+    400132: Layer:DEFPOINTS 15
+    400134: Layer:DEFPOINTS 16
+    400136: Layer:DEFPOINTS 17
+    400138: Layer:DEFPOINTS 18
+    400140: Layer:DEFPOINTS 19
+    400142: Layer:DEFPOINTS 2
+    400144: Layer:DEFPOINTS 20
+    400146: Layer:DEFPOINTS 21
+    400148: Layer:DEFPOINTS 22
+    400150: Layer:DEFPOINTS 23
+    400152: Layer:DEFPOINTS 24
+    400154: Layer:DEFPOINTS 25
+    400156: Layer:DEFPOINTS 26
+    400158: Layer:DEFPOINTS 27
+    400160: Layer:DEFPOINTS 28
+    400162: Layer:DEFPOINTS 29
+    400164: Layer:DEFPOINTS 3
+    400166: Layer:DEFPOINTS 30
+    400168: Layer:DEFPOINTS 31
+    400170: Layer:DEFPOINTS 32
+    400172: Layer:DEFPOINTS 33
+    400174: Layer:DEFPOINTS 34
+    400176: Layer:DEFPOINTS 35
+    400178: Layer:DEFPOINTS 36
+    400180: Layer:DEFPOINTS 37
+    400182: Layer:DEFPOINTS 38
+    400184: Layer:DEFPOINTS 39
+    400186: Layer:DEFPOINTS 4
+    400188: Layer:DEFPOINTS 40
+    400190: Layer:DEFPOINTS 41
+    400192: Layer:DEFPOINTS 42
+    400194: Layer:DEFPOINTS 43
+    400196: Layer:DEFPOINTS 5
+    400198: Layer:DEFPOINTS 6
+    400200: Layer:DEFPOINTS 7
+    400202: Layer:DEFPOINTS 8
+    400204: Layer:DEFPOINTS 9
+    400206: Layer:Proy
+    400208: Layer:Ventana
+    400210: Layer:Ventana 1
+    400212: Point
+    400214: Point 1
+    400216: Point 2
+    400218: Point 3
+    400220: Point 4
+    400222: Point 5
+    400224: Point 6
+    400226: Point 7
+    400228: Suelo
+    2300000: Layer:.1 1
+    2300002: Layer:.1 2
+    2300004: Layer:.1 3
+    2300006: Layer:0
+    2300008: Layer:0 1
+    2300010: Layer:DEFPOINTS 1
+    2300012: Layer:DEFPOINTS 10
+    2300014: Layer:DEFPOINTS 11
+    2300016: Layer:DEFPOINTS 12
+    2300018: Layer:DEFPOINTS 13
+    2300020: Layer:DEFPOINTS 14
+    2300022: Layer:DEFPOINTS 15
+    2300024: Layer:DEFPOINTS 16
+    2300026: Layer:DEFPOINTS 17
+    2300028: Layer:DEFPOINTS 18
+    2300030: Layer:DEFPOINTS 19
+    2300032: Layer:DEFPOINTS 2
+    2300034: Layer:DEFPOINTS 20
+    2300036: Layer:DEFPOINTS 21
+    2300038: Layer:DEFPOINTS 22
+    2300040: Layer:DEFPOINTS 23
+    2300042: Layer:DEFPOINTS 24
+    2300044: Layer:DEFPOINTS 25
+    2300046: Layer:DEFPOINTS 26
+    2300048: Layer:DEFPOINTS 27
+    2300050: Layer:DEFPOINTS 28
+    2300052: Layer:DEFPOINTS 29
+    2300054: Layer:DEFPOINTS 3
+    2300056: Layer:DEFPOINTS 30
+    2300058: Layer:DEFPOINTS 31
+    2300060: Layer:DEFPOINTS 32
+    2300062: Layer:DEFPOINTS 33
+    2300064: Layer:DEFPOINTS 34
+    2300066: Layer:DEFPOINTS 35
+    2300068: Layer:DEFPOINTS 36
+    2300070: Layer:DEFPOINTS 37
+    2300072: Layer:DEFPOINTS 38
+    2300074: Layer:DEFPOINTS 39
+    2300076: Layer:DEFPOINTS 4
+    2300078: Layer:DEFPOINTS 40
+    2300080: Layer:DEFPOINTS 41
+    2300082: Layer:DEFPOINTS 42
+    2300084: Layer:DEFPOINTS 43
+    2300086: Layer:DEFPOINTS 5
+    2300088: Layer:DEFPOINTS 6
+    2300090: Layer:DEFPOINTS 7
+    2300092: Layer:DEFPOINTS 8
+    2300094: Layer:DEFPOINTS 9
+    2300096: Layer:Ventana
+    2300098: Suelo
+    3300000: Layer:.1 1
+    3300002: Layer:.1 2
+    3300004: Layer:.1 3
+    3300006: Layer:0
+    3300008: Layer:0 1
+    3300010: Layer:DEFPOINTS 1
+    3300012: Layer:DEFPOINTS 10
+    3300014: Layer:DEFPOINTS 11
+    3300016: Layer:DEFPOINTS 12
+    3300018: Layer:DEFPOINTS 13
+    3300020: Layer:DEFPOINTS 14
+    3300022: Layer:DEFPOINTS 15
+    3300024: Layer:DEFPOINTS 16
+    3300026: Layer:DEFPOINTS 17
+    3300028: Layer:DEFPOINTS 18
+    3300030: Layer:DEFPOINTS 19
+    3300032: Layer:DEFPOINTS 2
+    3300034: Layer:DEFPOINTS 20
+    3300036: Layer:DEFPOINTS 21
+    3300038: Layer:DEFPOINTS 22
+    3300040: Layer:DEFPOINTS 23
+    3300042: Layer:DEFPOINTS 24
+    3300044: Layer:DEFPOINTS 25
+    3300046: Layer:DEFPOINTS 26
+    3300048: Layer:DEFPOINTS 27
+    3300050: Layer:DEFPOINTS 28
+    3300052: Layer:DEFPOINTS 29
+    3300054: Layer:DEFPOINTS 3
+    3300056: Layer:DEFPOINTS 30
+    3300058: Layer:DEFPOINTS 31
+    3300060: Layer:DEFPOINTS 32
+    3300062: Layer:DEFPOINTS 33
+    3300064: Layer:DEFPOINTS 34
+    3300066: Layer:DEFPOINTS 35
+    3300068: Layer:DEFPOINTS 36
+    3300070: Layer:DEFPOINTS 37
+    3300072: Layer:DEFPOINTS 38
+    3300074: Layer:DEFPOINTS 39
+    3300076: Layer:DEFPOINTS 4
+    3300078: Layer:DEFPOINTS 40
+    3300080: Layer:DEFPOINTS 41
+    3300082: Layer:DEFPOINTS 42
+    3300084: Layer:DEFPOINTS 43
+    3300086: Layer:DEFPOINTS 5
+    3300088: Layer:DEFPOINTS 6
+    3300090: Layer:DEFPOINTS 7
+    3300092: Layer:DEFPOINTS 8
+    3300094: Layer:DEFPOINTS 9
+    3300096: Layer:Ventana
+    3300098: Suelo
+    4300000: Layer:.1
+    4300002: Layer:.1
+    4300004: Layer:DEFPOINTS
+    4300006: Layer:0
+    4300008: Layer:0
+    4300010: Layer:Ventana
+    4300012: Layer:DEFPOINTS
+    4300014: Layer:DEFPOINTS
+    4300016: Layer:DEFPOINTS
+    4300018: Layer:DEFPOINTS
+    4300020: Layer:DEFPOINTS
+    4300022: Layer:DEFPOINTS
+    4300024: Layer:DEFPOINTS
+    4300026: Layer:DEFPOINTS
+    4300028: Layer:DEFPOINTS
+    4300030: Layer:DEFPOINTS
+    4300032: Layer:DEFPOINTS
+    4300034: Layer:DEFPOINTS
+    4300036: Layer:.1
+    4300038: Layer:DEFPOINTS
+    4300040: Layer:DEFPOINTS
+    4300042: Layer:DEFPOINTS
+    4300044: Layer:DEFPOINTS
+    4300046: Layer:DEFPOINTS
+    4300048: Layer:DEFPOINTS
+    4300050: Layer:DEFPOINTS
+    4300052: Layer:DEFPOINTS
+    4300054: Layer:DEFPOINTS
+    4300056: Layer:DEFPOINTS
+    4300058: Layer:DEFPOINTS
+    4300060: Layer:DEFPOINTS
+    4300062: Layer:DEFPOINTS
+    4300064: Layer:DEFPOINTS
+    4300066: Layer:DEFPOINTS
+    4300068: Layer:DEFPOINTS
+    4300070: Layer:DEFPOINTS
+    4300072: Layer:DEFPOINTS
+    4300074: Layer:DEFPOINTS
+    4300076: Layer:DEFPOINTS
+    4300078: Layer:DEFPOINTS
+    4300080: Layer:DEFPOINTS
+    4300082: Layer:DEFPOINTS
+    4300084: Layer:DEFPOINTS
+    4300086: Layer:DEFPOINTS
+    4300088: Layer:DEFPOINTS
+    4300090: Layer:DEFPOINTS
+    4300092: Layer:DEFPOINTS
+    4300094: Layer:DEFPOINTS
+    4300096: Layer:DEFPOINTS
+    4300098: Suelo
+    6400000: Layer:.1 1
+    6400002: Layer:.1 2
+    6400004: Layer:.1 3
+    6400006: Layer:0
+    6400008: Layer:0 1
+    6400010: Layer:DEFPOINTS 1
+    6400012: Layer:DEFPOINTS 10
+    6400014: Layer:DEFPOINTS 11
+    6400016: Layer:DEFPOINTS 12
+    6400018: Layer:DEFPOINTS 13
+    6400020: Layer:DEFPOINTS 14
+    6400022: Layer:DEFPOINTS 15
+    6400024: Layer:DEFPOINTS 16
+    6400026: Layer:DEFPOINTS 17
+    6400028: Layer:DEFPOINTS 18
+    6400030: Layer:DEFPOINTS 19
+    6400032: Layer:DEFPOINTS 2
+    6400034: Layer:DEFPOINTS 20
+    6400036: Layer:DEFPOINTS 21
+    6400038: Layer:DEFPOINTS 22
+    6400040: Layer:DEFPOINTS 23
+    6400042: Layer:DEFPOINTS 24
+    6400044: Layer:DEFPOINTS 25
+    6400046: Layer:DEFPOINTS 26
+    6400048: Layer:DEFPOINTS 27
+    6400050: Layer:DEFPOINTS 28
+    6400052: Layer:DEFPOINTS 29
+    6400054: Layer:DEFPOINTS 3
+    6400056: Layer:DEFPOINTS 30
+    6400058: Layer:DEFPOINTS 31
+    6400060: Layer:DEFPOINTS 32
+    6400062: Layer:DEFPOINTS 33
+    6400064: Layer:DEFPOINTS 34
+    6400066: Layer:DEFPOINTS 35
+    6400068: Layer:DEFPOINTS 36
+    6400070: Layer:DEFPOINTS 37
+    6400072: Layer:DEFPOINTS 38
+    6400074: Layer:DEFPOINTS 39
+    6400076: Layer:DEFPOINTS 4
+    6400078: Layer:DEFPOINTS 40
+    6400080: Layer:DEFPOINTS 41
+    6400082: Layer:DEFPOINTS 42
+    6400084: Layer:DEFPOINTS 43
+    6400086: Layer:DEFPOINTS 5
+    6400088: Layer:DEFPOINTS 6
+    6400090: Layer:DEFPOINTS 7
+    6400092: Layer:DEFPOINTS 8
+    6400094: Layer:DEFPOINTS 9
+    6400096: Layer:Ventana
+    6400098: Suelo
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

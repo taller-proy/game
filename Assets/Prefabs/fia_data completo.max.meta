@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: b38982ac65d4ea649871851a340302e9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Block:*U10
+    100002: Block:*U10 1
+    100004: Block:*U10 10
+    100006: Block:*U10 11
+    100008: Block:*U10 2
+    100010: Block:*U10 3
+    100012: Block:*U10 4
+    100014: Block:*U10 5
+    100016: Block:*U10 6
+    100018: Block:*U10 7
+    100020: Block:*U10 8
+    100022: Block:*U10 9
+    100024: Block:*U11
+    100026: Block:*U11 1
+    100028: Block:*U12
+    100030: Block:*U12 1
+    100032: Block:*U12 10
+    100034: Block:*U12 11
+    100036: Block:*U12 2
+    100038: Block:*U12 3
+    100040: Block:*U12 4
+    100042: Block:*U12 5
+    100044: Block:*U12 6
+    100046: Block:*U12 7
+    100048: Block:*U12 8
+    100050: Block:*U12 9
+    100052: Block:*U13
+    100054: Block:*U13 1
+    100056: Block:*U14
+    100058: Block:*U14 1
+    100060: Block:*U14 10
+    100062: Block:*U14 11
+    100064: Block:*U14 2
+    100066: Block:*U14 3
+    100068: Block:*U14 4
+    100070: Block:*U14 5
+    100072: Block:*U14 6
+    100074: Block:*U14 7
+    100076: Block:*U14 8
+    100078: Block:*U14 9
+    100080: Block:*U15
+    100082: Block:*U15 1
+    100084: Block:*U16
+    100086: Block:*U16 1
+    100088: Block:*U16 10
+    100090: Block:*U16 11
+    100092: Block:*U16 2
+    100094: Block:*U16 3
+    100096: Block:*U16 4
+    100098: Block:*U16 5
+    100100: Block:*U16 6
+    100102: Block:*U16 7
+    100104: Block:*U16 8
+    100106: Block:*U16 9
+    100108: Block:*U17
+    100110: Block:*U17 1
+    100112: Block:*U6
+    100114: Block:*U6 1
+    100116: Block:*U6 10
+    100118: Block:*U6 11
+    100120: Block:*U6 2
+    100122: Block:*U6 3
+    100124: Block:*U6 4
+    100126: Block:*U6 5
+    100128: Block:*U6 6
+    100130: Block:*U6 7
+    100132: Block:*U6 8
+    100134: Block:*U6 9
+    100136: Block:*U7
+    100138: Block:*U7 1
+    100140: Block:*U8
+    100142: Block:*U8 1
+    100144: Block:*U8 10
+    100146: Block:*U8 11
+    100148: Block:*U8 2
+    100150: Block:*U8 3
+    100152: Block:*U8 4
+    100154: Block:*U8 5
+    100156: Block:*U8 6
+    100158: Block:*U8 7
+    100160: Block:*U8 8
+    100162: Block:*U8 9
+    100164: Block:*U9
+    100166: Block:*U9 1
+    100168: Block:_ArchTick
+    100170: Block:_ArchTick 1
+    100172: Block:_ArchTick 2
+    100174: Block:_ArchTick 3
+    100176: Block:_ArchTick 4
+    100178: Block:_ArchTick 5
+    100180: Camera:OLE1
+    100182: Camera:OLE1.Target
+    100184: //RootNode
+    100186: Layer:.1
+    100188: Layer:.1 1
+    100190: Layer:.1 2
+    100192: Layer:.1 3
+    100194: Layer:.1 4
+    100196: Layer:.1 5
+    100198: Layer:.1 6
+    100200: Layer:.1 7
+    100202: Layer:.6
+    100204: Layer:.6 1
+    100206: Layer:0
+    100208: Layer:0 1
+    100210: Layer:0 2
+    100212: Layer:0 3
+    100214: Layer:0.1
+    100216: Layer:0.1 1
+    100218: Layer:0.2
+    100220: Layer:0.2 1
+    100222: Layer:CASCO
+    100224: Layer:CASCO 1
+    100226: Layer:DEFPOINTS
+    100228: Layer:DEFPOINTS 1
+    100230: Layer:DEFPOINTS 10
+    100232: Layer:DEFPOINTS 11
+    100234: Layer:DEFPOINTS 12
+    100236: Layer:DEFPOINTS 13
+    100238: Layer:DEFPOINTS 14
+    100240: Layer:DEFPOINTS 15
+    100242: Layer:DEFPOINTS 16
+    100244: Layer:DEFPOINTS 17
+    100246: Layer:DEFPOINTS 18
+    100248: Layer:DEFPOINTS 19
+    100250: Layer:DEFPOINTS 2
+    100252: Layer:DEFPOINTS 20
+    100254: Layer:DEFPOINTS 21
+    100256: Layer:DEFPOINTS 22
+    100258: Layer:DEFPOINTS 23
+    100260: Layer:DEFPOINTS 24
+    100262: Layer:DEFPOINTS 25
+    100264: Layer:DEFPOINTS 26
+    100266: Layer:DEFPOINTS 27
+    100268: Layer:DEFPOINTS 28
+    100270: Layer:DEFPOINTS 29
+    100272: Layer:DEFPOINTS 3
+    100274: Layer:DEFPOINTS 30
+    100276: Layer:DEFPOINTS 31
+    100278: Layer:DEFPOINTS 32
+    100280: Layer:DEFPOINTS 33
+    100282: Layer:DEFPOINTS 34
+    100284: Layer:DEFPOINTS 35
+    100286: Layer:DEFPOINTS 36
+    100288: Layer:DEFPOINTS 37
+    100290: Layer:DEFPOINTS 38
+    100292: Layer:DEFPOINTS 39
+    100294: Layer:DEFPOINTS 4
+    100296: Layer:DEFPOINTS 40
+    100298: Layer:DEFPOINTS 41
+    100300: Layer:DEFPOINTS 42
+    100302: Layer:DEFPOINTS 43
+    100304: Layer:DEFPOINTS 44
+    100306: Layer:DEFPOINTS 45
+    100308: Layer:DEFPOINTS 46
+    100310: Layer:DEFPOINTS 47
+    100312: Layer:DEFPOINTS 48
+    100314: Layer:DEFPOINTS 49
+    100316: Layer:DEFPOINTS 5
+    100318: Layer:DEFPOINTS 50
+    100320: Layer:DEFPOINTS 51
+    100322: Layer:DEFPOINTS 52
+    100324: Layer:DEFPOINTS 53
+    100326: Layer:DEFPOINTS 54
+    100328: Layer:DEFPOINTS 55
+    100330: Layer:DEFPOINTS 56
+    100332: Layer:DEFPOINTS 57
+    100334: Layer:DEFPOINTS 58
+    100336: Layer:DEFPOINTS 59
+    100338: Layer:DEFPOINTS 6
+    100340: Layer:DEFPOINTS 60
+    100342: Layer:DEFPOINTS 61
+    100344: Layer:DEFPOINTS 62
+    100346: Layer:DEFPOINTS 63
+    100348: Layer:DEFPOINTS 64
+    100350: Layer:DEFPOINTS 65
+    100352: Layer:DEFPOINTS 66
+    100354: Layer:DEFPOINTS 67
+    100356: Layer:DEFPOINTS 68
+    100358: Layer:DEFPOINTS 69
+    100360: Layer:DEFPOINTS 7
+    100362: Layer:DEFPOINTS 70
+    100364: Layer:DEFPOINTS 71
+    100366: Layer:DEFPOINTS 72
+    100368: Layer:DEFPOINTS 73
+    100370: Layer:DEFPOINTS 74
+    100372: Layer:DEFPOINTS 75
+    100374: Layer:DEFPOINTS 8
+    100376: Layer:DEFPOINTS 9
+    100378: Layer:muros
+    100380: Layer:muros 1
+    100382: Layer:MUROS-B
+    100384: Layer:MUROS-B 1
+    100386: Layer:Proy
+    100388: Layer:Proy 1
+    100390: Layer:Ventana
+    100392: Layer:Ventana 1
+    100394: Point
+    100396: Point 1
+    100398: Point 10
+    100400: Point 11
+    100402: Point 12
+    100404: Point 13
+    100406: Point 14
+    100408: Point 15
+    100410: Point 16
+    100412: Point 17
+    100414: Point 18
+    100416: Point 19
+    100418: Point 2
+    100420: Point 20
+    100422: Point 21
+    100424: Point 22
+    100426: Point 23
+    100428: Point 24
+    100430: Point 25
+    100432: Point 26
+    100434: Point 27
+    100436: Point 28
+    100438: Point 29
+    100440: Point 3
+    100442: Point 30
+    100444: Point 31
+    100446: Point 32
+    100448: Point 33
+    100450: Point 34
+    100452: Point 35
+    100454: Point 36
+    100456: Point 37
+    100458: Point 38
+    100460: Point 39
+    100462: Point 4
+    100464: Point 40
+    100466: Point 41
+    100468: Point 42
+    100470: Point 43
+    100472: Point 44
+    100474: Point 45
+    100476: Point 46
+    100478: Point 47
+    100480: Point 48
+    100482: Point 49
+    100484: Point 5
+    100486: Point 50
+    100488: Point 51
+    100490: Point 52
+    100492: Point 53
+    100494: Point 54
+    100496: Point 55
+    100498: Point 56
+    100500: Point 57
+    100502: Point 58
+    100504: Point 59
+    100506: Point 6
+    100508: Point 60
+    100510: Point 61
+    100512: Point 62
+    100514: Point 63
+    100516: Point 7
+    100518: Point 8
+    100520: Point 9
+    400000: Block:*U10
+    400002: Block:*U10 1
+    400004: Block:*U10 10
+    400006: Block:*U10 11
+    400008: Block:*U10 2
+    400010: Block:*U10 3
+    400012: Block:*U10 4
+    400014: Block:*U10 5
+    400016: Block:*U10 6
+    400018: Block:*U10 7
+    400020: Block:*U10 8
+    400022: Block:*U10 9
+    400024: Block:*U11
+    400026: Block:*U11 1
+    400028: Block:*U12
+    400030: Block:*U12 1
+    400032: Block:*U12 10
+    400034: Block:*U12 11
+    400036: Block:*U12 2
+    400038: Block:*U12 3
+    400040: Block:*U12 4
+    400042: Block:*U12 5
+    400044: Block:*U12 6
+    400046: Block:*U12 7
+    400048: Block:*U12 8
+    400050: Block:*U12 9
+    400052: Block:*U13
+    400054: Block:*U13 1
+    400056: Block:*U14
+    400058: Block:*U14 1
+    400060: Block:*U14 10
+    400062: Block:*U14 11
+    400064: Block:*U14 2
+    400066: Block:*U14 3
+    400068: Block:*U14 4
+    400070: Block:*U14 5
+    400072: Block:*U14 6
+    400074: Block:*U14 7
+    400076: Block:*U14 8
+    400078: Block:*U14 9
+    400080: Block:*U15
+    400082: Block:*U15 1
+    400084: Block:*U16
+    400086: Block:*U16 1
+    400088: Block:*U16 10
+    400090: Block:*U16 11
+    400092: Block:*U16 2
+    400094: Block:*U16 3
+    400096: Block:*U16 4
+    400098: Block:*U16 5
+    400100: Block:*U16 6
+    400102: Block:*U16 7
+    400104: Block:*U16 8
+    400106: Block:*U16 9
+    400108: Block:*U17
+    400110: Block:*U17 1
+    400112: Block:*U6
+    400114: Block:*U6 1
+    400116: Block:*U6 10
+    400118: Block:*U6 11
+    400120: Block:*U6 2
+    400122: Block:*U6 3
+    400124: Block:*U6 4
+    400126: Block:*U6 5
+    400128: Block:*U6 6
+    400130: Block:*U6 7
+    400132: Block:*U6 8
+    400134: Block:*U6 9
+    400136: Block:*U7
+    400138: Block:*U7 1
+    400140: Block:*U8
+    400142: Block:*U8 1
+    400144: Block:*U8 10
+    400146: Block:*U8 11
+    400148: Block:*U8 2
+    400150: Block:*U8 3
+    400152: Block:*U8 4
+    400154: Block:*U8 5
+    400156: Block:*U8 6
+    400158: Block:*U8 7
+    400160: Block:*U8 8
+    400162: Block:*U8 9
+    400164: Block:*U9
+    400166: Block:*U9 1
+    400168: Block:_ArchTick
+    400170: Block:_ArchTick 1
+    400172: Block:_ArchTick 2
+    400174: Block:_ArchTick 3
+    400176: Block:_ArchTick 4
+    400178: Block:_ArchTick 5
+    400180: Camera:OLE1
+    400182: Camera:OLE1.Target
+    400184: //RootNode
+    400186: Layer:.1
+    400188: Layer:.1 1
+    400190: Layer:.1 2
+    400192: Layer:.1 3
+    400194: Layer:.1 4
+    400196: Layer:.1 5
+    400198: Layer:.1 6
+    400200: Layer:.1 7
+    400202: Layer:.6
+    400204: Layer:.6 1
+    400206: Layer:0
+    400208: Layer:0 1
+    400210: Layer:0 2
+    400212: Layer:0 3
+    400214: Layer:0.1
+    400216: Layer:0.1 1
+    400218: Layer:0.2
+    400220: Layer:0.2 1
+    400222: Layer:CASCO
+    400224: Layer:CASCO 1
+    400226: Layer:DEFPOINTS
+    400228: Layer:DEFPOINTS 1
+    400230: Layer:DEFPOINTS 10
+    400232: Layer:DEFPOINTS 11
+    400234: Layer:DEFPOINTS 12
+    400236: Layer:DEFPOINTS 13
+    400238: Layer:DEFPOINTS 14
+    400240: Layer:DEFPOINTS 15
+    400242: Layer:DEFPOINTS 16
+    400244: Layer:DEFPOINTS 17
+    400246: Layer:DEFPOINTS 18
+    400248: Layer:DEFPOINTS 19
+    400250: Layer:DEFPOINTS 2
+    400252: Layer:DEFPOINTS 20
+    400254: Layer:DEFPOINTS 21
+    400256: Layer:DEFPOINTS 22
+    400258: Layer:DEFPOINTS 23
+    400260: Layer:DEFPOINTS 24
+    400262: Layer:DEFPOINTS 25
+    400264: Layer:DEFPOINTS 26
+    400266: Layer:DEFPOINTS 27
+    400268: Layer:DEFPOINTS 28
+    400270: Layer:DEFPOINTS 29
+    400272: Layer:DEFPOINTS 3
+    400274: Layer:DEFPOINTS 30
+    400276: Layer:DEFPOINTS 31
+    400278: Layer:DEFPOINTS 32
+    400280: Layer:DEFPOINTS 33
+    400282: Layer:DEFPOINTS 34
+    400284: Layer:DEFPOINTS 35
+    400286: Layer:DEFPOINTS 36
+    400288: Layer:DEFPOINTS 37
+    400290: Layer:DEFPOINTS 38
+    400292: Layer:DEFPOINTS 39
+    400294: Layer:DEFPOINTS 4
+    400296: Layer:DEFPOINTS 40
+    400298: Layer:DEFPOINTS 41
+    400300: Layer:DEFPOINTS 42
+    400302: Layer:DEFPOINTS 43
+    400304: Layer:DEFPOINTS 44
+    400306: Layer:DEFPOINTS 45
+    400308: Layer:DEFPOINTS 46
+    400310: Layer:DEFPOINTS 47
+    400312: Layer:DEFPOINTS 48
+    400314: Layer:DEFPOINTS 49
+    400316: Layer:DEFPOINTS 5
+    400318: Layer:DEFPOINTS 50
+    400320: Layer:DEFPOINTS 51
+    400322: Layer:DEFPOINTS 52
+    400324: Layer:DEFPOINTS 53
+    400326: Layer:DEFPOINTS 54
+    400328: Layer:DEFPOINTS 55
+    400330: Layer:DEFPOINTS 56
+    400332: Layer:DEFPOINTS 57
+    400334: Layer:DEFPOINTS 58
+    400336: Layer:DEFPOINTS 59
+    400338: Layer:DEFPOINTS 6
+    400340: Layer:DEFPOINTS 60
+    400342: Layer:DEFPOINTS 61
+    400344: Layer:DEFPOINTS 62
+    400346: Layer:DEFPOINTS 63
+    400348: Layer:DEFPOINTS 64
+    400350: Layer:DEFPOINTS 65
+    400352: Layer:DEFPOINTS 66
+    400354: Layer:DEFPOINTS 67
+    400356: Layer:DEFPOINTS 68
+    400358: Layer:DEFPOINTS 69
+    400360: Layer:DEFPOINTS 7
+    400362: Layer:DEFPOINTS 70
+    400364: Layer:DEFPOINTS 71
+    400366: Layer:DEFPOINTS 72
+    400368: Layer:DEFPOINTS 73
+    400370: Layer:DEFPOINTS 74
+    400372: Layer:DEFPOINTS 75
+    400374: Layer:DEFPOINTS 8
+    400376: Layer:DEFPOINTS 9
+    400378: Layer:muros
+    400380: Layer:muros 1
+    400382: Layer:MUROS-B
+    400384: Layer:MUROS-B 1
+    400386: Layer:Proy
+    400388: Layer:Proy 1
+    400390: Layer:Ventana
+    400392: Layer:Ventana 1
+    400394: Point
+    400396: Point 1
+    400398: Point 10
+    400400: Point 11
+    400402: Point 12
+    400404: Point 13
+    400406: Point 14
+    400408: Point 15
+    400410: Point 16
+    400412: Point 17
+    400414: Point 18
+    400416: Point 19
+    400418: Point 2
+    400420: Point 20
+    400422: Point 21
+    400424: Point 22
+    400426: Point 23
+    400428: Point 24
+    400430: Point 25
+    400432: Point 26
+    400434: Point 27
+    400436: Point 28
+    400438: Point 29
+    400440: Point 3
+    400442: Point 30
+    400444: Point 31
+    400446: Point 32
+    400448: Point 33
+    400450: Point 34
+    400452: Point 35
+    400454: Point 36
+    400456: Point 37
+    400458: Point 38
+    400460: Point 39
+    400462: Point 4
+    400464: Point 40
+    400466: Point 41
+    400468: Point 42
+    400470: Point 43
+    400472: Point 44
+    400474: Point 45
+    400476: Point 46
+    400478: Point 47
+    400480: Point 48
+    400482: Point 49
+    400484: Point 5
+    400486: Point 50
+    400488: Point 51
+    400490: Point 52
+    400492: Point 53
+    400494: Point 54
+    400496: Point 55
+    400498: Point 56
+    400500: Point 57
+    400502: Point 58
+    400504: Point 59
+    400506: Point 6
+    400508: Point 60
+    400510: Point 61
+    400512: Point 62
+    400514: Point 63
+    400516: Point 7
+    400518: Point 8
+    400520: Point 9
+    2300000: Layer:.1 4
+    2300002: Layer:.1 5
+    2300004: Layer:.1 6
+    2300006: Layer:.6
+    2300008: Layer:0
+    2300010: Layer:0 1
+    2300012: Layer:0 3
+    2300014: Layer:DEFPOINTS
+    2300016: Layer:DEFPOINTS 10
+    2300018: Layer:DEFPOINTS 11
+    2300020: Layer:DEFPOINTS 12
+    2300022: Layer:DEFPOINTS 13
+    2300024: Layer:DEFPOINTS 14
+    2300026: Layer:DEFPOINTS 15
+    2300028: Layer:DEFPOINTS 16
+    2300030: Layer:DEFPOINTS 17
+    2300032: Layer:DEFPOINTS 18
+    2300034: Layer:DEFPOINTS 19
+    2300036: Layer:DEFPOINTS 2
+    2300038: Layer:DEFPOINTS 20
+    2300040: Layer:DEFPOINTS 21
+    2300042: Layer:DEFPOINTS 22
+    2300044: Layer:DEFPOINTS 23
+    2300046: Layer:DEFPOINTS 24
+    2300048: Layer:DEFPOINTS 25
+    2300050: Layer:DEFPOINTS 26
+    2300052: Layer:DEFPOINTS 27
+    2300054: Layer:DEFPOINTS 28
+    2300056: Layer:DEFPOINTS 29
+    2300058: Layer:DEFPOINTS 30
+    2300060: Layer:DEFPOINTS 31
+    2300062: Layer:DEFPOINTS 32
+    2300064: Layer:DEFPOINTS 33
+    2300066: Layer:DEFPOINTS 34
+    2300068: Layer:DEFPOINTS 35
+    2300070: Layer:DEFPOINTS 36
+    2300072: Layer:DEFPOINTS 37
+    2300074: Layer:DEFPOINTS 38
+    2300076: Layer:DEFPOINTS 39
+    2300078: Layer:DEFPOINTS 4
+    2300080: Layer:DEFPOINTS 40
+    2300082: Layer:DEFPOINTS 41
+    2300084: Layer:DEFPOINTS 42
+    2300086: Layer:DEFPOINTS 43
+    2300088: Layer:DEFPOINTS 44
+    2300090: Layer:DEFPOINTS 45
+    2300092: Layer:DEFPOINTS 46
+    2300094: Layer:DEFPOINTS 47
+    2300096: Layer:DEFPOINTS 48
+    2300098: Layer:DEFPOINTS 49
+    2300100: Layer:DEFPOINTS 5
+    2300102: Layer:DEFPOINTS 50
+    2300104: Layer:DEFPOINTS 51
+    2300106: Layer:DEFPOINTS 52
+    2300108: Layer:DEFPOINTS 53
+    2300110: Layer:DEFPOINTS 54
+    2300112: Layer:DEFPOINTS 55
+    2300114: Layer:DEFPOINTS 56
+    2300116: Layer:DEFPOINTS 57
+    2300118: Layer:DEFPOINTS 58
+    2300120: Layer:DEFPOINTS 59
+    2300122: Layer:DEFPOINTS 6
+    2300124: Layer:DEFPOINTS 60
+    2300126: Layer:DEFPOINTS 61
+    2300128: Layer:DEFPOINTS 62
+    2300130: Layer:DEFPOINTS 63
+    2300132: Layer:DEFPOINTS 64
+    2300134: Layer:DEFPOINTS 65
+    2300136: Layer:DEFPOINTS 66
+    2300138: Layer:DEFPOINTS 67
+    2300140: Layer:DEFPOINTS 68
+    2300142: Layer:DEFPOINTS 69
+    2300144: Layer:DEFPOINTS 7
+    2300146: Layer:DEFPOINTS 70
+    2300148: Layer:DEFPOINTS 71
+    2300150: Layer:DEFPOINTS 72
+    2300152: Layer:DEFPOINTS 73
+    2300154: Layer:DEFPOINTS 74
+    2300156: Layer:DEFPOINTS 75
+    2300158: Layer:DEFPOINTS 8
+    2300160: Layer:DEFPOINTS 9
+    2300162: Layer:Ventana
+    2300164: Layer:Ventana 1
+    3300000: Layer:.1 4
+    3300002: Layer:.1 5
+    3300004: Layer:.1 6
+    3300006: Layer:.6
+    3300008: Layer:0
+    3300010: Layer:0 1
+    3300012: Layer:0 3
+    3300014: Layer:DEFPOINTS
+    3300016: Layer:DEFPOINTS 10
+    3300018: Layer:DEFPOINTS 11
+    3300020: Layer:DEFPOINTS 12
+    3300022: Layer:DEFPOINTS 13
+    3300024: Layer:DEFPOINTS 14
+    3300026: Layer:DEFPOINTS 15
+    3300028: Layer:DEFPOINTS 16
+    3300030: Layer:DEFPOINTS 17
+    3300032: Layer:DEFPOINTS 18
+    3300034: Layer:DEFPOINTS 19
+    3300036: Layer:DEFPOINTS 2
+    3300038: Layer:DEFPOINTS 20
+    3300040: Layer:DEFPOINTS 21
+    3300042: Layer:DEFPOINTS 22
+    3300044: Layer:DEFPOINTS 23
+    3300046: Layer:DEFPOINTS 24
+    3300048: Layer:DEFPOINTS 25
+    3300050: Layer:DEFPOINTS 26
+    3300052: Layer:DEFPOINTS 27
+    3300054: Layer:DEFPOINTS 28
+    3300056: Layer:DEFPOINTS 29
+    3300058: Layer:DEFPOINTS 30
+    3300060: Layer:DEFPOINTS 31
+    3300062: Layer:DEFPOINTS 32
+    3300064: Layer:DEFPOINTS 33
+    3300066: Layer:DEFPOINTS 34
+    3300068: Layer:DEFPOINTS 35
+    3300070: Layer:DEFPOINTS 36
+    3300072: Layer:DEFPOINTS 37
+    3300074: Layer:DEFPOINTS 38
+    3300076: Layer:DEFPOINTS 39
+    3300078: Layer:DEFPOINTS 4
+    3300080: Layer:DEFPOINTS 40
+    3300082: Layer:DEFPOINTS 41
+    3300084: Layer:DEFPOINTS 42
+    3300086: Layer:DEFPOINTS 43
+    3300088: Layer:DEFPOINTS 44
+    3300090: Layer:DEFPOINTS 45
+    3300092: Layer:DEFPOINTS 46
+    3300094: Layer:DEFPOINTS 47
+    3300096: Layer:DEFPOINTS 48
+    3300098: Layer:DEFPOINTS 49
+    3300100: Layer:DEFPOINTS 5
+    3300102: Layer:DEFPOINTS 50
+    3300104: Layer:DEFPOINTS 51
+    3300106: Layer:DEFPOINTS 52
+    3300108: Layer:DEFPOINTS 53
+    3300110: Layer:DEFPOINTS 54
+    3300112: Layer:DEFPOINTS 55
+    3300114: Layer:DEFPOINTS 56
+    3300116: Layer:DEFPOINTS 57
+    3300118: Layer:DEFPOINTS 58
+    3300120: Layer:DEFPOINTS 59
+    3300122: Layer:DEFPOINTS 6
+    3300124: Layer:DEFPOINTS 60
+    3300126: Layer:DEFPOINTS 61
+    3300128: Layer:DEFPOINTS 62
+    3300130: Layer:DEFPOINTS 63
+    3300132: Layer:DEFPOINTS 64
+    3300134: Layer:DEFPOINTS 65
+    3300136: Layer:DEFPOINTS 66
+    3300138: Layer:DEFPOINTS 67
+    3300140: Layer:DEFPOINTS 68
+    3300142: Layer:DEFPOINTS 69
+    3300144: Layer:DEFPOINTS 7
+    3300146: Layer:DEFPOINTS 70
+    3300148: Layer:DEFPOINTS 71
+    3300150: Layer:DEFPOINTS 72
+    3300152: Layer:DEFPOINTS 73
+    3300154: Layer:DEFPOINTS 74
+    3300156: Layer:DEFPOINTS 75
+    3300158: Layer:DEFPOINTS 8
+    3300160: Layer:DEFPOINTS 9
+    3300162: Layer:Ventana
+    3300164: Layer:Ventana 1
+    4300000: Layer:DEFPOINTS
+    4300002: Layer:DEFPOINTS
+    4300004: Layer:DEFPOINTS
+    4300006: Layer:DEFPOINTS
+    4300008: Layer:DEFPOINTS
+    4300010: Layer:DEFPOINTS
+    4300012: Layer:DEFPOINTS
+    4300014: Layer:DEFPOINTS
+    4300016: Layer:DEFPOINTS
+    4300018: Layer:DEFPOINTS
+    4300020: Layer:DEFPOINTS
+    4300022: Layer:DEFPOINTS
+    4300024: Layer:DEFPOINTS
+    4300026: Layer:DEFPOINTS
+    4300028: Layer:DEFPOINTS
+    4300030: Layer:DEFPOINTS
+    4300032: Layer:DEFPOINTS
+    4300034: Layer:DEFPOINTS
+    4300036: Layer:DEFPOINTS
+    4300038: Layer:DEFPOINTS
+    4300040: Layer:DEFPOINTS
+    4300042: Layer:DEFPOINTS
+    4300044: Layer:DEFPOINTS
+    4300046: Layer:DEFPOINTS
+    4300048: Layer:DEFPOINTS
+    4300050: Layer:DEFPOINTS
+    4300052: Layer:DEFPOINTS
+    4300054: Layer:DEFPOINTS
+    4300056: Layer:DEFPOINTS
+    4300058: Layer:DEFPOINTS
+    4300060: Layer:DEFPOINTS
+    4300062: Layer:DEFPOINTS
+    4300064: Layer:DEFPOINTS
+    4300066: Layer:DEFPOINTS
+    4300068: Layer:DEFPOINTS
+    4300070: Layer:DEFPOINTS
+    4300072: Layer:Ventana
+    4300074: Layer:0
+    4300076: Layer:0
+    4300078: Layer:DEFPOINTS
+    4300080: Layer:.6
+    4300082: Layer:.1
+    4300084: Layer:.1
+    4300086: Layer:.1
+    4300088: Layer:DEFPOINTS
+    4300090: Layer:0
+    4300092: Layer:Ventana
+    4300094: Layer:DEFPOINTS
+    4300096: Layer:DEFPOINTS
+    4300098: Layer:DEFPOINTS
+    4300100: Layer:DEFPOINTS
+    4300102: Layer:DEFPOINTS
+    4300104: Layer:DEFPOINTS
+    4300106: Layer:DEFPOINTS
+    4300108: Layer:DEFPOINTS
+    4300110: Layer:DEFPOINTS
+    4300112: Layer:DEFPOINTS
+    4300114: Layer:DEFPOINTS
+    4300116: Layer:DEFPOINTS
+    4300118: Layer:DEFPOINTS
+    4300120: Layer:DEFPOINTS
+    4300122: Layer:DEFPOINTS
+    4300124: Layer:DEFPOINTS
+    4300126: Layer:DEFPOINTS
+    4300128: Layer:DEFPOINTS
+    4300130: Layer:DEFPOINTS
+    4300132: Layer:DEFPOINTS
+    4300134: Layer:DEFPOINTS
+    4300136: Layer:DEFPOINTS
+    4300138: Layer:DEFPOINTS
+    4300140: Layer:DEFPOINTS
+    4300142: Layer:DEFPOINTS
+    4300144: Layer:DEFPOINTS
+    4300146: Layer:DEFPOINTS
+    4300148: Layer:DEFPOINTS
+    4300150: Layer:DEFPOINTS
+    4300152: Layer:DEFPOINTS
+    4300154: Layer:DEFPOINTS
+    4300156: Layer:DEFPOINTS
+    4300158: Layer:DEFPOINTS
+    4300160: Layer:DEFPOINTS
+    4300162: Layer:DEFPOINTS
+    4300164: Layer:DEFPOINTS
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e13f9ff305d64434699b1e4430e6b33c
+timeCreated: 1467175933
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chica_Unity: {fileID: 100000, guid: af98b64a614160b4ca53362689095a8c, type: 3}
+  - chica_2_3dsMax: {fileID: 100000, guid: e59eec99feaa83146a926fa0aa3a9c40, type: 3}
+  - chico_1_Unity: {fileID: 100012, guid: 278f40f137ce3034d8d79c616e12cdb1, type: 3}
+  - chico_2_Unity: {fileID: 100012, guid: 2b3eb65fbbcf1b145b45546815823222, type: 3}
+  - chico_3_Unity: {fileID: 100012, guid: 285180b2128edf144a505ec18e886033, type: 3}
+  - chica_3_Unity: {fileID: 100012, guid: 4679b96ad60bbcc40afdeadb91c6080d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
