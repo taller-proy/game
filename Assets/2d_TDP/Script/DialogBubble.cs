@@ -73,7 +73,7 @@ public class DialogBubble : MonoBehaviour {
 				{
 					//create bubble
 					vBubbleObject = Instantiate(Resources.Load<GameObject> ("Customs/BubbleRectangle"));
-					vBubbleObject.transform.position = vcharacter.transform.position + new Vector3(1.35f, 1.9f, 0f); //move a little bit the teleport particle effect
+					vBubbleObject.transform.position = vcharacter.transform.position + new Vector3(2.15f, 1.75f, 0f); //move a little bit the teleport particle effect
 				}
 				else 
 				{
